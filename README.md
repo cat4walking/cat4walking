@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cat4walking
 - 👀 I’m interested in code & cooking & gym
 - 🌱 I’m currently learning everything i feel wonder
-- 🌱 My skills: html&css/sass, javascript
+- 🌱 My skills: html&css/sass, javascript, nodejs MVC
 - 📫 How to reach me: lethangg1998@gmail.com
