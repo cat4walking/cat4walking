@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cat4walking
-- 👀 I’m interested in code & cooking & gym
+- 🌱 My skills: html&css/sass, bootstrap, javascript
+- 🏷️ Back end: NodeJs, mongoDb, SQL
+-  👀 I’m interested in code & cooking & gym
 - 🌱 I’m currently learning everything i feel wonder
-- 🌱 My skills: html&css/sass, javascript
-- 🏷️ Back end: NodeJs, mongoDb
 - 📫 How to reach me: lethangg1998@gmail.com
